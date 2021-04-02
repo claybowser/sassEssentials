@@ -1,5 +1,5 @@
 # Sass Essential Training
-This is the repository for my course Sass Essential Training. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/sass-essential-training?trk=insiders_6787408_learning) and [Lynda.com](https://www.lynda.com/Sass-tutorials/Sass-Essential-Training/375925-2.html)
+This is (a fork of) the repository for (the) course Sass Essential Training by Ray Villalobos. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/sass-essential-training?trk=insiders_6787408_learning) and [Lynda.com](https://www.lynda.com/Sass-tutorials/Sass-Essential-Training/375925-2.html)
 
 [![Sass Essential Training](https://media-exp2.licdn.com/media-proxy/ext?w=1200&h=675&f=n&hash=8W8fRH%2FgFTCEfqqhF%2Fgu91hdO6k%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-iXCCj-NCfY3DscMXaZLSiol4TfCsEkwI1eOivSDTgEY69LcLmY4Yx3A)](https://www.linkedin.com/learning/sass-essential-training?trk=insiders_6787408_learning)
 
